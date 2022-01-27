@@ -4,4 +4,5 @@ channels:
 dependencies:
   - python=3.8
   - geopandas
+  - notebook
 prefix: /Users/arunavgupta/anaconda3/envs/bigfoot-eda
